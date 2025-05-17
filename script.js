@@ -36,7 +36,4 @@ function newCard(){
     renderGame();
 }
 
-function count() {
-    let count;
-    for( count = 10 ;count < 21; count+=1)
-}
+
