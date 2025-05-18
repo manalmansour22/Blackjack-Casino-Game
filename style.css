@@ -72,29 +72,3 @@ button {
     margin-bottom: 4px;
     cursor: pointer;
 }
-p#error{
-    color: red;
-}
-span {
-    border-bottom: 2px solid black;
-    padding: 4px;
-}
-
-.btn {
-   width: fit-content;
-   padding: 10px 12px;
-   font-size: 14px;
-   border-radius: 10px; 
-}
-.num {
-    display: flex;
-    gap: 5px;
-    justify-content: center;
-    padding: 20px;
-}
-.sum {
-    display: flex;
-    gap: 5px;
-    justify-content: center;
-    padding: 20px;
-}
